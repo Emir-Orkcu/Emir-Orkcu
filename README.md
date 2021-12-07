@@ -29,9 +29,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 **languages and tools:**  
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<br />
+<br />
 
 📈 my github stats
-<br />
 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Emir-Orkcu&show_icons=true&locale=en&layout=compact" alt="Emir-Orkcu" /></p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Emir-Orkcu&show_icons=true&theme=gotham" alt="Emir-Orkcu" />
