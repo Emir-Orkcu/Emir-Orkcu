@@ -43,7 +43,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 <br />
 <br />
-**MOBİLE FRAMWORKS:**
+**MOBİLE FRAMEWORKS:**
 
 ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
